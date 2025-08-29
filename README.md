@@ -32,13 +32,11 @@ A 3-month dataset containing employee attendance, leave records, and work status
 - Enabled **data-driven HR decisions** regarding workforce management and resource allocation  
 - **Streamlined leave approvals** and WFH tracking, making HR processes more efficient  
 - **Improved operational efficiency** by providing real-time insights into employee presence and leave patterns
-
 ---
 
 ## 📁 Files Included
 - `HR Analysis PowerBI.pbix – Power BI dashboard file  
-- `![Image Alt](https://github.com/Prakyath5/Power-BI-Project/blob/1079eb10015c788920f7f32d8c08f1fa5600f62f/Dashboard%20Screenshot.png)
-
+- `![Image Alt](https://github.com/Prakyath5/HR-Data-analysis-/blob/main/Dashboard%20Screenshot.png)
 
 ---
 
